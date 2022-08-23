@@ -1,5 +1,7 @@
 # String Methods
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `StringMethods.java`
 - Create a variable that is your first name
 - Create a variable that is your last name
