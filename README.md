@@ -1,6 +1,6 @@
 # String Methods
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Fri 9/2 at 11:59 PM
 
 - Create a program called `StringMethods.java`
 - Create a variable that is your first name
