@@ -7,7 +7,7 @@
       "input": "",
       "output": "^[a-zA-z ]{3}\\n[a-zA-Z ]{3}\\n[a-zA-Z ]{1}\\n[0-9]{1}$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
